@@ -1,0 +1,83 @@
+[
+  {
+    "category": "Steganography",
+    "release_tag": "stego-v1",
+    "asset_filename": "NullOrigin_Stego_Chain.7z",
+    "size_bytes": 15366752,
+    "sha256": "dfd70d032f75677afd2edad3b0956837b3f2a4bb85d91b564c917693e5d2078a",
+    "multipart": false,
+    "part_number": null
+  },
+  {
+    "category": "Reverse Engineering",
+    "release_tag": "rev-v1",
+    "asset_filename": "NullOrigin_Rev_Chain.7z",
+    "size_bytes": 837688200,
+    "sha256": "4343a8b8de1d4921d53f7e760eee902f2abc209288664f885cd1d5645b7a3f07",
+    "multipart": false,
+    "part_number": null
+  },
+  {
+    "category": "Boot2Root",
+    "release_tag": "boot2root-v1",
+    "asset_filename": "NullOrigin_Boot2Root_Chain.7z",
+    "size_bytes": 810460864,
+    "sha256": "ac7f40cb560e0459d3e9b906b446cbc7d0fc656a71a916f77a5879463e8af863",
+    "multipart": false,
+    "part_number": null
+  },
+  {
+    "category": "Cryptography",
+    "release_tag": "crypto-v1",
+    "asset_filename": "NullOrigin_Crypto_Chain.7z.001",
+    "size_bytes": 1782579200,
+    "sha256": "0d2f31e54c63ed02d1b1e6650a5858c2f20e6c4e2ac98b910e80f94c961cd72d",
+    "multipart": true,
+    "part_number": 1
+  },
+  {
+    "category": "Cryptography",
+    "release_tag": "crypto-v1",
+    "asset_filename": "NullOrigin_Crypto_Chain.7z.002",
+    "size_bytes": 1782579200,
+    "sha256": "ce285a7aec9d705594d8cd5c17de65f923cb3b28c1982bd731e5642320d1a540",
+    "multipart": true,
+    "part_number": 2
+  },
+  {
+    "category": "Cryptography",
+    "release_tag": "crypto-v1",
+    "asset_filename": "NullOrigin_Crypto_Chain.7z.003",
+    "size_bytes": 1782579200,
+    "sha256": "61d2bb15f2f28600dac032610083591a9054a0c378d250fd44d585a2011d03ce",
+    "multipart": true,
+    "part_number": 3
+  },
+  {
+    "category": "Cryptography",
+    "release_tag": "crypto-v1",
+    "asset_filename": "NullOrigin_Crypto_Chain.7z.004",
+    "size_bytes": 1782579200,
+    "sha256": "fdffb39c124ea303244db05e78ccea2be81dcccdde0dea5a4dbac3aeb7c702d7",
+    "multipart": true,
+    "part_number": 4
+  },
+  {
+    "category": "Cryptography",
+    "release_tag": "crypto-v1",
+    "asset_filename": "NullOrigin_Crypto_Chain.7z.005",
+    "size_bytes": 1624003255,
+    "sha256": "60cab3bfb7f437cf638fee59197485d44c367a2c9d381b248e13f6596c9872eb",
+    "multipart": true,
+    "part_number": 5
+  },
+  {
+    "category": "Forensics",
+    "release_tag": "forensics-v1",
+    "asset_filename": "NullOrigin_Forensics_Chain.7z",
+    "size_bytes": 238199586,
+    "sha256": "1dac80e199e27461a7bc458b065563825498781bc8be29995a66f80fcd05755e",
+    "multipart": false,
+    "part_number": null
+  }
+]

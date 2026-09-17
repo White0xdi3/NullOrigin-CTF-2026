@@ -1,0 +1,19 @@
+# Large challenge payloads are distributed via GitHub Releases, not git.
+release-build/*.7z
+release-build/*.001
+release-build/*.002
+release-build/*.003
+release-build/*.004
+release-build/*.005
+release-build/*.006
+release-build/*.007
+release-build/*.008
+release-build/*.009
+release-build/*.7z.[0-9][0-9][0-9]
+
+# Original challenge source directories never get committed.
+NullOrigin_Stego_Chain/
+NullOrigin_Rev_Chain/
+NullOrigin_Boot2Root_Chain/
+NullOrigin_Crypto_Chain/
+NullOrigin_Forensics_Chain/
